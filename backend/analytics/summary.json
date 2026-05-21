@@ -1,0 +1,47 @@
+{
+  "generated_at": "2026-05-18 18:53",
+  "total_vacancies": 1918,
+  "total_categories": 18,
+  "top_categories": [
+    {
+      "category": "Full Stack Developer",
+      "count": 241,
+      "curr_week": 39,
+      "prev_week": 89,
+      "change": -50,
+      "trend": "down"
+    },
+    {
+      "category": "Backend Developer",
+      "count": 209,
+      "curr_week": 55,
+      "prev_week": 53,
+      "change": 2,
+      "trend": "up"
+    },
+    {
+      "category": "DevOps / SRE Engineer",
+      "count": 164,
+      "curr_week": 34,
+      "prev_week": 26,
+      "change": 8,
+      "trend": "up"
+    },
+    {
+      "category": "Software / Embedded Engineer",
+      "count": 158,
+      "curr_week": 29,
+      "prev_week": 70,
+      "change": -41,
+      "trend": "down"
+    },
+    {
+      "category": "QA Manual Engineer",
+      "count": 157,
+      "curr_week": 29,
+      "prev_week": 54,
+      "change": -25,
+      "trend": "down"
+    }
+  ]
+}

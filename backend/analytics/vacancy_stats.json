@@ -1,0 +1,1414 @@
+{
+  "generated_at": "2026-05-18 18:53",
+  "vacancies_analyzed": 1918,
+  "vacancy_dynamics": {
+    "System Administrator / Network Engineer": {
+      "monthly": [
+        {
+          "period": "2026-03",
+          "label": "Березень 2026",
+          "count": 3
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 36
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 46
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 3
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 22
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 13
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 14
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 29
+        },
+        {
+          "period": "2026-05-18",
+          "label": "18 тра",
+          "count": 1
+        }
+      ]
+    },
+    "Frontend Developer": {
+      "monthly": [
+        {
+          "period": "2026-03",
+          "label": "Березень 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 26
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 40
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-03-30",
+          "label": "30 бер",
+          "count": 1
+        },
+        {
+          "period": "2026-04-06",
+          "label": "6 кві",
+          "count": 1
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 1
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 17
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 7
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 14
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 24
+        },
+        {
+          "period": "2026-05-18",
+          "label": "18 тра",
+          "count": 2
+        }
+      ]
+    },
+    "DevOps / SRE Engineer": {
+      "monthly": [
+        {
+          "period": "2026-01",
+          "label": "Січень 2026",
+          "count": 2
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 83
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 78
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-03-30",
+          "label": "30 бер",
+          "count": 2
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 5
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 46
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 39
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 29
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 40
+        }
+      ]
+    },
+    "Full Stack Developer": {
+      "monthly": [
+        {
+          "period": "2026-03",
+          "label": "Березень 2026",
+          "count": 11
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 90
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 140
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-03-23",
+          "label": "23 бер",
+          "count": 3
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 12
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 36
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 50
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 68
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 64
+        }
+      ]
+    },
+    "QA Manual Engineer": {
+      "monthly": [
+        {
+          "period": "2026-01",
+          "label": "Січень 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 49
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 107
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-06",
+          "label": "6 кві",
+          "count": 1
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 4
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 15
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 44
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 51
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 38
+        },
+        {
+          "period": "2026-05-18",
+          "label": "18 тра",
+          "count": 3
+        }
+      ]
+    },
+    "Software / Embedded Engineer": {
+      "monthly": [
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 49
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 104
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 2
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 20
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 30
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 62
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 38
+        },
+        {
+          "period": "2026-05-18",
+          "label": "18 тра",
+          "count": 1
+        }
+      ]
+    },
+    "Backend Developer": {
+      "monthly": [
+        {
+          "period": "2026-01",
+          "label": "Січень 2026",
+          "count": 2
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 79
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 124
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-06",
+          "label": "6 кві",
+          "count": 1
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 3
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 37
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 45
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 50
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 67
+        }
+      ]
+    },
+    "QA Automation Engineer": {
+      "monthly": [
+        {
+          "period": "2026-01",
+          "label": "Січень 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 15
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 64
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 9
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 8
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 38
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 24
+        }
+      ]
+    },
+    "Data Analyst": {
+      "monthly": [
+        {
+          "period": "2026-03",
+          "label": "Березень 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 50
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 53
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-06",
+          "label": "6 кві",
+          "count": 3
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 1
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 12
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 41
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 18
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 28
+        }
+      ]
+    },
+    "Mobile Developer": {
+      "monthly": [
+        {
+          "period": "2026-01",
+          "label": "Січень 2026",
+          "count": 3
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 23
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 18
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-06",
+          "label": "6 кві",
+          "count": 1
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 3
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 11
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 10
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 11
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 5
+        }
+      ]
+    },
+    "UX/UI Designer": {
+      "monthly": [
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 11
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 19
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 2
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 5
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 4
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 6
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 13
+        }
+      ]
+    },
+    "Business Analyst": {
+      "monthly": [
+        {
+          "period": "2026-03",
+          "label": "Березень 2026",
+          "count": 2
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 40
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 49
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-03-23",
+          "label": "23 бер",
+          "count": 1
+        },
+        {
+          "period": "2026-03-30",
+          "label": "30 бер",
+          "count": 2
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 6
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 18
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 17
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 20
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 25
+        },
+        {
+          "period": "2026-05-18",
+          "label": "18 тра",
+          "count": 2
+        }
+      ]
+    },
+    "Data Engineer": {
+      "monthly": [
+        {
+          "period": "2026-01",
+          "label": "Січень 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-02",
+          "label": "Лютий 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 32
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 86
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-06",
+          "label": "6 кві",
+          "count": 1
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 4
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 13
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 15
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 31
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 51
+        },
+        {
+          "period": "2026-05-18",
+          "label": "18 тра",
+          "count": 3
+        }
+      ]
+    },
+    "ML / AI Engineer": {
+      "monthly": [
+        {
+          "period": "2026-01",
+          "label": "Січень 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-03",
+          "label": "Березень 2026",
+          "count": 2
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 44
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 92
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-03-23",
+          "label": "23 бер",
+          "count": 2
+        },
+        {
+          "period": "2026-04-06",
+          "label": "6 кві",
+          "count": 2
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 8
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 12
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 23
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 57
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 32
+        },
+        {
+          "period": "2026-05-18",
+          "label": "18 тра",
+          "count": 2
+        }
+      ]
+    },
+    "Python Developer": {
+      "monthly": [
+        {
+          "period": "2026-03",
+          "label": "Березень 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 19
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 59
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 4
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 6
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 11
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 24
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 33
+        }
+      ]
+    },
+    "Java Developer": {
+      "monthly": [
+        {
+          "period": "2026-03",
+          "label": "Березень 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 23
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 42
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-03-23",
+          "label": "23 бер",
+          "count": 1
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 2
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 13
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 8
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 36
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 6
+        }
+      ]
+    },
+    "Cloud Engineer": {
+      "monthly": [
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 3
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 2
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 3
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 2
+        }
+      ]
+    },
+    ".NET Developer": {
+      "monthly": [
+        {
+          "period": "2026-01",
+          "label": "Січень 2026",
+          "count": 2
+        },
+        {
+          "period": "2026-03",
+          "label": "Березень 2026",
+          "count": 1
+        },
+        {
+          "period": "2026-04",
+          "label": "Квітень 2026",
+          "count": 18
+        },
+        {
+          "period": "2026-05",
+          "label": "Травень 2026",
+          "count": 47
+        }
+      ],
+      "weekly": [
+        {
+          "period": "2026-03-23",
+          "label": "23 бер",
+          "count": 1
+        },
+        {
+          "period": "2026-04-13",
+          "label": "13 кві",
+          "count": 1
+        },
+        {
+          "period": "2026-04-20",
+          "label": "20 кві",
+          "count": 7
+        },
+        {
+          "period": "2026-04-27",
+          "label": "27 кві",
+          "count": 10
+        },
+        {
+          "period": "2026-05-04",
+          "label": "4 тра",
+          "count": 21
+        },
+        {
+          "period": "2026-05-11",
+          "label": "11 тра",
+          "count": 26
+        }
+      ]
+    }
+  },
+  "remote_index": {
+    "System Administrator / Network Engineer": {
+      "total": 88,
+      "remote_count": 18,
+      "office_count": 70,
+      "remote_percent": 20,
+      "office_percent": 80,
+      "note": "визначено за полем location"
+    },
+    "Frontend Developer": {
+      "total": 67,
+      "remote_count": 21,
+      "office_count": 46,
+      "remote_percent": 31,
+      "office_percent": 69,
+      "note": "визначено за полем location"
+    },
+    "DevOps / SRE Engineer": {
+      "total": 164,
+      "remote_count": 72,
+      "office_count": 92,
+      "remote_percent": 44,
+      "office_percent": 56,
+      "note": "визначено за полем location"
+    },
+    "Full Stack Developer": {
+      "total": 241,
+      "remote_count": 74,
+      "office_count": 167,
+      "remote_percent": 31,
+      "office_percent": 69,
+      "note": "визначено за полем location"
+    },
+    "QA Manual Engineer": {
+      "total": 157,
+      "remote_count": 55,
+      "office_count": 102,
+      "remote_percent": 35,
+      "office_percent": 65,
+      "note": "визначено за полем location"
+    },
+    "Software / Embedded Engineer": {
+      "total": 158,
+      "remote_count": 26,
+      "office_count": 132,
+      "remote_percent": 16,
+      "office_percent": 84,
+      "note": "визначено за полем location"
+    },
+    "Backend Developer": {
+      "total": 209,
+      "remote_count": 80,
+      "office_count": 129,
+      "remote_percent": 38,
+      "office_percent": 62,
+      "note": "визначено за полем location"
+    },
+    "QA Automation Engineer": {
+      "total": 80,
+      "remote_count": 31,
+      "office_count": 49,
+      "remote_percent": 39,
+      "office_percent": 61,
+      "note": "визначено за полем location"
+    },
+    "Data Analyst": {
+      "total": 104,
+      "remote_count": 31,
+      "office_count": 73,
+      "remote_percent": 30,
+      "office_percent": 70,
+      "note": "визначено за полем location"
+    },
+    "Mobile Developer": {
+      "total": 44,
+      "remote_count": 12,
+      "office_count": 32,
+      "remote_percent": 27,
+      "office_percent": 73,
+      "note": "визначено за полем location"
+    },
+    "UX/UI Designer": {
+      "total": 30,
+      "remote_count": 4,
+      "office_count": 26,
+      "remote_percent": 13,
+      "office_percent": 87,
+      "note": "визначено за полем location"
+    },
+    "Business Analyst": {
+      "total": 92,
+      "remote_count": 32,
+      "office_count": 60,
+      "remote_percent": 35,
+      "office_percent": 65,
+      "note": "визначено за полем location"
+    },
+    "Data Engineer": {
+      "total": 120,
+      "remote_count": 58,
+      "office_count": 62,
+      "remote_percent": 48,
+      "office_percent": 52,
+      "note": "визначено за полем location"
+    },
+    "ML / AI Engineer": {
+      "total": 139,
+      "remote_count": 42,
+      "office_count": 97,
+      "remote_percent": 30,
+      "office_percent": 70,
+      "note": "визначено за полем location"
+    },
+    "Python Developer": {
+      "total": 79,
+      "remote_count": 33,
+      "office_count": 46,
+      "remote_percent": 42,
+      "office_percent": 58,
+      "note": "визначено за полем location"
+    },
+    "Java Developer": {
+      "total": 73,
+      "remote_count": 19,
+      "office_count": 54,
+      "remote_percent": 26,
+      "office_percent": 74,
+      "note": "визначено за полем location"
+    },
+    "Cloud Engineer": {
+      "total": 5,
+      "remote_count": 3,
+      "office_count": 2,
+      "remote_percent": 60,
+      "office_percent": 40,
+      "note": "визначено за полем location"
+    },
+    ".NET Developer": {
+      "total": 68,
+      "remote_count": 17,
+      "office_count": 51,
+      "remote_percent": 25,
+      "office_percent": 75,
+      "note": "визначено за полем location"
+    }
+  },
+  "employment_type": {
+    "System Administrator / Network Engineer": {
+      "total": 88,
+      "full_time": {
+        "count": 87,
+        "percent": 99
+      },
+      "part_time": {
+        "count": 2,
+        "percent": 2
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Frontend Developer": {
+      "total": 67,
+      "full_time": {
+        "count": 67,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 0,
+        "percent": 0
+      },
+      "internship": {
+        "count": 4,
+        "percent": 6
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "DevOps / SRE Engineer": {
+      "total": 164,
+      "full_time": {
+        "count": 164,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 2,
+        "percent": 1
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Full Stack Developer": {
+      "total": 241,
+      "full_time": {
+        "count": 240,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 2,
+        "percent": 1
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 1,
+        "percent": 0
+      }
+    },
+    "QA Manual Engineer": {
+      "total": 157,
+      "full_time": {
+        "count": 157,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 1,
+        "percent": 1
+      },
+      "internship": {
+        "count": 6,
+        "percent": 4
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Software / Embedded Engineer": {
+      "total": 158,
+      "full_time": {
+        "count": 158,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 2,
+        "percent": 1
+      },
+      "internship": {
+        "count": 4,
+        "percent": 3
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Backend Developer": {
+      "total": 209,
+      "full_time": {
+        "count": 209,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 0,
+        "percent": 0
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "QA Automation Engineer": {
+      "total": 80,
+      "full_time": {
+        "count": 80,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 1,
+        "percent": 1
+      },
+      "internship": {
+        "count": 2,
+        "percent": 2
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Data Analyst": {
+      "total": 104,
+      "full_time": {
+        "count": 104,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 7,
+        "percent": 7
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Mobile Developer": {
+      "total": 44,
+      "full_time": {
+        "count": 44,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 0,
+        "percent": 0
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "UX/UI Designer": {
+      "total": 30,
+      "full_time": {
+        "count": 30,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 2,
+        "percent": 7
+      },
+      "internship": {
+        "count": 5,
+        "percent": 17
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Business Analyst": {
+      "total": 92,
+      "full_time": {
+        "count": 92,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 1,
+        "percent": 1
+      },
+      "internship": {
+        "count": 4,
+        "percent": 4
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Data Engineer": {
+      "total": 120,
+      "full_time": {
+        "count": 120,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 1,
+        "percent": 1
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "ML / AI Engineer": {
+      "total": 139,
+      "full_time": {
+        "count": 139,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 2,
+        "percent": 1
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Python Developer": {
+      "total": 79,
+      "full_time": {
+        "count": 79,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 3,
+        "percent": 4
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Java Developer": {
+      "total": 73,
+      "full_time": {
+        "count": 73,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 0,
+        "percent": 0
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    "Cloud Engineer": {
+      "total": 5,
+      "full_time": {
+        "count": 5,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 0,
+        "percent": 0
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    },
+    ".NET Developer": {
+      "total": 68,
+      "full_time": {
+        "count": 68,
+        "percent": 100
+      },
+      "part_time": {
+        "count": 0,
+        "percent": 0
+      },
+      "internship": {
+        "count": 0,
+        "percent": 0
+      },
+      "temporary": {
+        "count": 0,
+        "percent": 0
+      }
+    }
+  }
+}

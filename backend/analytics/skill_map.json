@@ -1,0 +1,1356 @@
+{
+  "generated_at": "2026-05-20",
+  "vacancies_analyzed": 1918,
+  "must_have_threshold_pct": 5,
+  "note": "from_titles — технології витягнуті з назв вакансій. base_stack — експертний словник базових навичок. Навички між рівнями не дублюються.",
+  "skill_map": {
+    "System Administrator / Network Engineer": {
+      "Junior": {
+        "total_vacancies": 6,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Linux/Windows Server",
+            "TCP/IP",
+            "DNS/DHCP",
+            "Bash/PowerShell",
+            "Основи мереж",
+            "Віртуалізація"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 76,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Cisco/MikroTik",
+            "VPN",
+            "Active Directory",
+            "Моніторинг",
+            "Firewall",
+            "Virtualization"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 6,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Архітектура мереж",
+            "High Availability",
+            "Network Security",
+            "Infrastructure Automation",
+            "Disaster Recovery"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "Frontend Developer": {
+      "Junior": {
+        "total_vacancies": 7,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "Git",
+            "React/Vue/Angular",
+            "REST API",
+            "Адаптивна верстка"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 37,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "React",
+              "count": 10,
+              "percent": 27
+            },
+            {
+              "skill": "Node.js",
+              "count": 4,
+              "percent": 11
+            },
+            {
+              "skill": "Next.js",
+              "count": 4,
+              "percent": 11
+            },
+            {
+              "skill": "Vue",
+              "count": 3,
+              "percent": 8
+            },
+            {
+              "skill": "React Native",
+              "count": 3,
+              "percent": 8
+            },
+            {
+              "skill": "Angular",
+              "count": 2,
+              "percent": 5
+            }
+          ],
+          "base_stack": [
+            "TypeScript",
+            "Webpack/Vite",
+            "Тестування",
+            "State Management",
+            "Next.js/Nuxt"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 23,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Архітектура фронтенду",
+            "CI/CD",
+            "Оптимізація продуктивності",
+            "Design Systems",
+            "SSR/SSG",
+            "Менторинг"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "DevOps / SRE Engineer": {
+      "Junior": {
+        "total_vacancies": 6,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Linux",
+            "Git",
+            "Docker",
+            "Bash",
+            "Основи мереж",
+            "CI/CD основи"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 83,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Kubernetes",
+            "CI/CD",
+            "Terraform",
+            "AWS/GCP/Azure",
+            "Моніторинг",
+            "Ansible"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 75,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "AWS",
+              "count": 7,
+              "percent": 9
+            },
+            {
+              "skill": "GCP",
+              "count": 6,
+              "percent": 8
+            }
+          ],
+          "base_stack": [
+            "Архітектура хмарних систем",
+            "SRE практики",
+            "Безпека",
+            "Observability",
+            "Disaster Recovery",
+            "Cost Optimization"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [
+            {
+              "skill": "Azure",
+              "count": 3,
+              "percent": 4
+            }
+          ],
+          "base_stack": []
+        }
+      }
+    },
+    "Full Stack Developer": {
+      "Junior": {
+        "total_vacancies": 5,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "React",
+              "count": 3,
+              "percent": 60
+            },
+            {
+              "skill": "JavaScript",
+              "count": 2,
+              "percent": 40
+            }
+          ],
+          "base_stack": [
+            "HTML",
+            "CSS",
+            "Git",
+            "SQL",
+            "REST API",
+            "React/Vue",
+            "Node.js основи"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 102,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Node.js",
+              "count": 16,
+              "percent": 16
+            },
+            {
+              "skill": "Vue",
+              "count": 13,
+              "percent": 13
+            },
+            {
+              "skill": "Python",
+              "count": 12,
+              "percent": 12
+            },
+            {
+              "skill": ".NET",
+              "count": 11,
+              "percent": 11
+            },
+            {
+              "skill": "TypeScript",
+              "count": 8,
+              "percent": 8
+            },
+            {
+              "skill": "Angular",
+              "count": 7,
+              "percent": 7
+            },
+            {
+              "skill": "PHP",
+              "count": 6,
+              "percent": 6
+            },
+            {
+              "skill": "Java",
+              "count": 5,
+              "percent": 5
+            }
+          ],
+          "base_stack": [
+            "Docker",
+            "JWT/Auth",
+            "NoSQL",
+            "Тестування",
+            "CI/CD"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [
+            {
+              "skill": "Laravel",
+              "count": 4,
+              "percent": 4
+            },
+            {
+              "skill": "Svelte",
+              "count": 2,
+              "percent": 2
+            },
+            {
+              "skill": "Next.js",
+              "count": 2,
+              "percent": 2
+            },
+            {
+              "skill": "NestJS",
+              "count": 2,
+              "percent": 2
+            }
+          ],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 134,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Azure",
+              "count": 8,
+              "percent": 6
+            }
+          ],
+          "base_stack": [
+            "Архітектура систем",
+            "Мікросервіси",
+            "System Design",
+            "Kubernetes",
+            "Оптимізація продуктивності",
+            "Менторинг"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "QA Manual Engineer": {
+      "Junior": {
+        "total_vacancies": 31,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Тест-дизайн",
+            "Баг-репорти",
+            "Jira",
+            "SQL основи",
+            "SDLC/STLC",
+            "Основи API"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 107,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "SQL",
+            "API тестування",
+            "Postman",
+            "Charles/Fiddler",
+            "Тестова документація",
+            "Тестування БД"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 19,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Тест-стратегія",
+            "Управління QA командою",
+            "Метрики якості",
+            "Risk management",
+            "Побудова QA процесів"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "Software / Embedded Engineer": {
+      "Junior": {
+        "total_vacancies": 7,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "C++",
+              "count": 2,
+              "percent": 29
+            }
+          ],
+          "base_stack": [
+            "C/C++",
+            "Git",
+            "Linux",
+            "Мікроконтролери",
+            "Основи електроніки",
+            "UART/I2C/SPI"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 80,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Python",
+              "count": 5,
+              "percent": 6
+            },
+            {
+              "skill": "Java",
+              "count": 5,
+              "percent": 6
+            },
+            {
+              "skill": ".NET",
+              "count": 4,
+              "percent": 5
+            },
+            {
+              "skill": "Oracle",
+              "count": 4,
+              "percent": 5
+            },
+            {
+              "skill": "React",
+              "count": 4,
+              "percent": 5
+            }
+          ],
+          "base_stack": [
+            "RTOS",
+            "STM32/ESP32",
+            "Embedded Linux",
+            "Debugging",
+            "ARM Architecture",
+            "IoT основи"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [
+            {
+              "skill": "AWS",
+              "count": 3,
+              "percent": 4
+            },
+            {
+              "skill": "JavaScript",
+              "count": 3,
+              "percent": 4
+            },
+            {
+              "skill": "Next.js",
+              "count": 3,
+              "percent": 4
+            },
+            {
+              "skill": "PHP",
+              "count": 2,
+              "percent": 2
+            },
+            {
+              "skill": "Node.js",
+              "count": 2,
+              "percent": 2
+            }
+          ],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 71,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Архітектура embedded систем",
+            "Real-time systems",
+            "Оптимізація продуктивності",
+            "Безпека embedded систем",
+            "Hardware/Software integration"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [
+            {
+              "skill": "Go",
+              "count": 2,
+              "percent": 3
+            }
+          ],
+          "base_stack": []
+        }
+      }
+    },
+    "Backend Developer": {
+      "Junior": {
+        "total_vacancies": 7,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "PHP",
+              "count": 2,
+              "percent": 29
+            },
+            {
+              "skill": "JavaScript",
+              "count": 2,
+              "percent": 29
+            },
+            {
+              "skill": "Node.js",
+              "count": 2,
+              "percent": 29
+            }
+          ],
+          "base_stack": [
+            "Git",
+            "SQL",
+            "REST API",
+            "Linux основи",
+            "ООП",
+            "Node.js/Java/Python"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 81,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Go",
+              "count": 8,
+              "percent": 10
+            },
+            {
+              "skill": "Python",
+              "count": 6,
+              "percent": 7
+            },
+            {
+              "skill": "TypeScript",
+              "count": 4,
+              "percent": 5
+            },
+            {
+              "skill": ".NET",
+              "count": 4,
+              "percent": 5
+            }
+          ],
+          "base_stack": [
+            "SQL/NoSQL",
+            "Docker",
+            "CI/CD",
+            "Тестування",
+            "Redis",
+            "Message Brokers"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [
+            {
+              "skill": "Ruby",
+              "count": 3,
+              "percent": 4
+            },
+            {
+              "skill": "Laravel",
+              "count": 3,
+              "percent": 4
+            },
+            {
+              "skill": "Java",
+              "count": 2,
+              "percent": 2
+            },
+            {
+              "skill": "Rust",
+              "count": 2,
+              "percent": 2
+            }
+          ],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 121,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "System Design",
+            "Мікросервіси",
+            "Безпека",
+            "Масштабування",
+            "Event-driven architecture"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [
+            {
+              "skill": "AWS",
+              "count": 3,
+              "percent": 2
+            },
+            {
+              "skill": "Symfony",
+              "count": 2,
+              "percent": 2
+            },
+            {
+              "skill": "React",
+              "count": 2,
+              "percent": 2
+            },
+            {
+              "skill": "Kubernetes",
+              "count": 2,
+              "percent": 2
+            },
+            {
+              "skill": "C++",
+              "count": 2,
+              "percent": 2
+            }
+          ],
+          "base_stack": []
+        }
+      }
+    },
+    "QA Automation Engineer": {
+      "Junior": {
+        "total_vacancies": 3,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Selenium/Cypress",
+            "Git",
+            "Основи програмування",
+            "Тест-дизайн",
+            "ООП",
+            "API тестування"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 52,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Java",
+              "count": 13,
+              "percent": 25
+            },
+            {
+              "skill": "Python",
+              "count": 4,
+              "percent": 8
+            },
+            {
+              "skill": "JavaScript",
+              "count": 4,
+              "percent": 8
+            }
+          ],
+          "base_stack": [
+            "Selenium/Cypress/Playwright",
+            "Java/Python/JavaScript",
+            "CI/CD",
+            "Docker",
+            "Test Frameworks"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [
+            {
+              "skill": "TypeScript",
+              "count": 2,
+              "percent": 4
+            }
+          ],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 25,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Архітектура тест-фреймворку",
+            "Управління QA командою",
+            "Performance testing",
+            "TestOps",
+            "Автоматизація процесів"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "Data Analyst": {
+      "Junior": {
+        "total_vacancies": 2,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "SQL",
+            "Excel",
+            "Python/R",
+            "Візуалізація даних",
+            "Основи статистики",
+            "Power BI/Tableau"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 78,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Tableau/Power BI",
+            "Статистика",
+            "A/B тестування",
+            "ETL основи",
+            "Pandas",
+            "Бізнес-метрики"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 24,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "ML основи",
+            "Бізнес-аналітика",
+            "Прогнозування",
+            "Data storytelling",
+            "Аналітична стратегія",
+            "Менторинг"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "Mobile Developer": {
+      "Junior": {
+        "total_vacancies": 1,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Git",
+            "REST API",
+            "Основи мобільної розробки",
+            "Kotlin/Swift/Flutter",
+            "ООП"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 28,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "React",
+              "count": 3,
+              "percent": 11
+            },
+            {
+              "skill": "React Native",
+              "count": 3,
+              "percent": 11
+            },
+            {
+              "skill": ".NET",
+              "count": 3,
+              "percent": 11
+            },
+            {
+              "skill": "MAUI",
+              "count": 3,
+              "percent": 11
+            },
+            {
+              "skill": "Flutter",
+              "count": 3,
+              "percent": 11
+            }
+          ],
+          "base_stack": [
+            "Тестування",
+            "CI/CD",
+            "Публікація в сторах",
+            "Firebase",
+            "Архітектурні патерни"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 15,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Архітектура мобільних додатків",
+            "Оптимізація",
+            "Безпека",
+            "Performance tuning",
+            "Менторинг"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "UX/UI Designer": {
+      "Junior": {
+        "total_vacancies": 9,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Figma",
+            "UX основи",
+            "Прототипування",
+            "Композиція",
+            "Typography",
+            "Color theory"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 16,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "UX дослідження",
+            "Дизайн-системи",
+            "Юзабіліті тестування",
+            "Auto Layout",
+            "Responsive Design"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 5,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Дизайн-стратегія",
+            "Управління командою",
+            "Product Thinking",
+            "Accessibility",
+            "DesignOps"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "Business Analyst": {
+      "Junior": {
+        "total_vacancies": 5,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Вимоги",
+            "BPMN",
+            "Jira",
+            "SQL основи",
+            "User Stories",
+            "Confluence"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 69,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "SQL",
+            "Jira/Confluence",
+            "Прототипування",
+            "UML",
+            "Stakeholder management",
+            "BRD/SRS документація"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 18,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Бізнес-стратегія",
+            "Архітектура процесів",
+            "Управління вимогами",
+            "Process Optimization",
+            "Менторинг"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "Data Engineer": {
+      "Junior": {
+        "total_vacancies": 2,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Azure",
+              "count": 2,
+              "percent": 100
+            }
+          ],
+          "base_stack": [
+            "SQL",
+            "Python",
+            "Git",
+            "ETL основи",
+            "PostgreSQL",
+            "Linux основи"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 76,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Spark",
+            "Airflow",
+            "dbt",
+            "Data Warehouse",
+            "Docker",
+            "Хмарні платформи"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 42,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Scala",
+              "count": 2,
+              "percent": 5
+            }
+          ],
+          "base_stack": [
+            "Архітектура даних",
+            "Kafka",
+            "Streaming systems",
+            "Kubernetes",
+            "Data Lake",
+            "Оптимізація пайплайнів"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "ML / AI Engineer": {
+      "Middle": {
+        "total_vacancies": 76,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "TensorFlow/PyTorch",
+            "Docker",
+            "SQL",
+            "MLOps основи",
+            "Feature Engineering",
+            "FastAPI/Flask"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [
+            {
+              "skill": "Python",
+              "count": 3,
+              "percent": 4
+            }
+          ],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 63,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Архітектура ML систем",
+            "MLOps",
+            "LLM",
+            "Хмарні платформи",
+            "Kubernetes",
+            "Distributed Training"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "Python Developer": {
+      "Junior": {
+        "total_vacancies": 8,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Python",
+              "count": 8,
+              "percent": 100
+            }
+          ],
+          "base_stack": [
+            "Git",
+            "SQL",
+            "ООП основи",
+            "HTTP/REST",
+            "Linux основи"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 23,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Django/FastAPI",
+            "PostgreSQL",
+            "Docker",
+            "Тестування",
+            "Redis"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 48,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Go",
+              "count": 8,
+              "percent": 17
+            },
+            {
+              "skill": "Azure",
+              "count": 3,
+              "percent": 6
+            }
+          ],
+          "base_stack": [
+            "Архітектура",
+            "Мікросервіси",
+            "Kubernetes",
+            "CI/CD",
+            "Async programming",
+            "System Design"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "Java Developer": {
+      "Junior": {
+        "total_vacancies": 7,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Java",
+              "count": 7,
+              "percent": 100
+            }
+          ],
+          "base_stack": [
+            "Git",
+            "SQL",
+            "ООП",
+            "Spring основи",
+            "Maven/Gradle"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 21,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Python",
+              "count": 6,
+              "percent": 29
+            }
+          ],
+          "base_stack": [
+            "Spring Boot",
+            "SQL/NoSQL",
+            "Docker",
+            "Тестування",
+            "Hibernate",
+            "REST API"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 45,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Spring",
+            "Мікросервіси",
+            "Архітектура",
+            "Kubernetes",
+            "Kafka",
+            "System Design"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    "Cloud Engineer": {
+      "Middle": {
+        "total_vacancies": 1,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "Kubernetes",
+            "Terraform",
+            "CI/CD",
+            "Monitoring",
+            "Cloud Security",
+            "Serverless"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 4,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "Azure",
+              "count": 2,
+              "percent": 50
+            }
+          ],
+          "base_stack": [
+            "Архітектура хмарних систем",
+            "Multi-cloud",
+            "Cost Optimization",
+            "Disaster Recovery",
+            "Infrastructure as Code strategy"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    },
+    ".NET Developer": {
+      "Junior": {
+        "total_vacancies": 6,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": ".NET",
+              "count": 6,
+              "percent": 100
+            },
+            {
+              "skill": "Angular",
+              "count": 2,
+              "percent": 33
+            }
+          ],
+          "base_stack": [
+            "C#",
+            "Git",
+            "SQL",
+            "ООП",
+            "ASP.NET основи"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Middle": {
+        "total_vacancies": 25,
+        "must_have": {
+          "from_titles": [],
+          "base_stack": [
+            "ASP.NET",
+            "PostgreSQL/MSSQL",
+            "Docker",
+            "Тестування",
+            "Entity Framework",
+            "REST API"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      },
+      "Senior": {
+        "total_vacancies": 37,
+        "must_have": {
+          "from_titles": [
+            {
+              "skill": "AWS",
+              "count": 7,
+              "percent": 19
+            }
+          ],
+          "base_stack": [
+            "Архітектура",
+            "Мікросервіси",
+            "Azure/AWS",
+            "Kubernetes",
+            "System Design",
+            "Message Brokers"
+          ]
+        },
+        "nice_to_have": {
+          "from_titles": [],
+          "base_stack": []
+        }
+      }
+    }
+  }
+}

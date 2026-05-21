@@ -1,0 +1,3995 @@
+{
+  "generated_at": "2026-05-19 11:22",
+  "colected_at": "2026-01",
+  "source": "DOU Salary Survey",
+  "source_url": "https://github.com/devua/csv/tree/master/salaries",
+  "source_note": "Дані опитування DOU. При публікації обов'язково вказуйте DOU як джерело з активним посиланням.",
+  "location": "В Україні",
+  "currency": "USD",
+  "mapping_note": "TypeScript/JavaScript → Frontend Developer (включає Node.js розробників). Точніший розподіл неможливий через структуру даних DOU.",
+  "salary_stats": {
+    "Frontend Developer": {
+      "total_records": 933,
+      "by_level": {
+        "Junior": {
+          "q25": 520,
+          "median": 800,
+          "q75": 1000,
+          "mean": 837,
+          "min": 180,
+          "max": 2800,
+          "count": 150,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 27
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 74
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 40
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 6
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 1
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 2
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1700,
+          "median": 2300,
+          "q75": 3000,
+          "mean": 2490,
+          "min": 200,
+          "max": 14000,
+          "count": 370,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 1
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 12
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 43
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 68
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 69
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 71
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 76
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 21
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 6
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 1
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 2
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 3500,
+          "median": 4375,
+          "q75": 5300,
+          "mean": 4619,
+          "min": 500,
+          "max": 16000,
+          "count": 413,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 2
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 5
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 9
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 9
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 30
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 96
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 116
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 108
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 24
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 14
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 1640,
+        "median": 2950,
+        "q75": 4300,
+        "mean": 3166,
+        "min": 180,
+        "max": 16000,
+        "count": 933,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 28
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 88
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 88
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 83
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 79
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 103
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 172
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 137
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 114
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 25
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 16
+          }
+        ]
+      }
+    },
+    "Backend Developer": {
+      "total_records": 1458,
+      "by_level": {
+        "Junior": {
+          "q25": 622,
+          "median": 950,
+          "q75": 1335,
+          "mean": 1051,
+          "min": 150,
+          "max": 3600,
+          "count": 179,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 17
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 76
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 49
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 23
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 8
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 3
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 3
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 2000,
+          "median": 2560,
+          "q75": 3225,
+          "mean": 2846,
+          "min": 500,
+          "max": 15950,
+          "count": 507,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 12
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 35
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 69
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 103
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 95
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 126
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 36
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 18
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 8
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 5
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 3943,
+          "median": 4950,
+          "q75": 6000,
+          "mean": 5205,
+          "min": 250,
+          "max": 20000,
+          "count": 772,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 1
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 3
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 3
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 8
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 17
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 32
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 131
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 195
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 262
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 85
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 35
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 2200,
+        "median": 3500,
+        "q75": 5000,
+        "mean": 3875,
+        "min": 150,
+        "max": 20000,
+        "count": 1458,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 18
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 91
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 87
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 100
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 128
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 130
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 260
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 231
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 280
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 93
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 40
+          }
+        ]
+      }
+    },
+    "Full Stack Developer": {
+      "total_records": 953,
+      "by_level": {
+        "Junior": {
+          "q25": 555,
+          "median": 800,
+          "q75": 1200,
+          "mean": 946,
+          "min": 250,
+          "max": 2800,
+          "count": 132,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 16
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 61
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 32
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 16
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 6
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 1
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1700,
+          "median": 2255,
+          "q75": 3000,
+          "mean": 2429,
+          "min": 400,
+          "max": 9500,
+          "count": 358,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 1
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 14
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 43
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 63
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 81
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 54
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 75
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 13
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 11
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 3
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 3450,
+          "median": 4500,
+          "q75": 5600,
+          "mean": 4729,
+          "min": 400,
+          "max": 16000,
+          "count": 463,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 1
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 1
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 8
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 7
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 17
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 30
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 103
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 113
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 125
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 43
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 15
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 1800,
+        "median": 3000,
+        "q75": 4500,
+        "mean": 3341,
+        "min": 250,
+        "max": 16000,
+        "count": 953,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 18
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 76
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 83
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 86
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 104
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 85
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 178
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 126
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 136
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 46
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 15
+          }
+        ]
+      }
+    },
+    "Mobile Developer": {
+      "total_records": 395,
+      "by_level": {
+        "Junior": {
+          "q25": 700,
+          "median": 800,
+          "q75": 1086,
+          "mean": 953,
+          "min": 250,
+          "max": 2458,
+          "count": 42,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 4
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 21
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 10
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 6
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 1
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 2000,
+          "median": 2520,
+          "q75": 3200,
+          "mean": 2806,
+          "min": 500,
+          "max": 10000,
+          "count": 129,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 6
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 10
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 11
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 27
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 24
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 33
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 9
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 4
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 4
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 1
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 4000,
+          "median": 4700,
+          "q75": 5800,
+          "mean": 5047,
+          "min": 1374,
+          "max": 16000,
+          "count": 224,
+          "histogram": [
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 1
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 3
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 9
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 40
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 66
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 80
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 18
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 7
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 2429,
+        "median": 3720,
+        "q75": 5050,
+        "mean": 3880,
+        "min": 250,
+        "max": 16000,
+        "count": 395,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 4
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 27
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 21
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 17
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 31
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 33
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 73
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 75
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 84
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 22
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 8
+          }
+        ]
+      }
+    },
+    "Java Developer": {
+      "total_records": 39,
+      "by_level": {
+        "Junior": {
+          "q25": 500,
+          "median": 500,
+          "q75": 500,
+          "mean": 500,
+          "min": 500,
+          "max": 500,
+          "count": 1,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 1
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 5225,
+          "median": 6500,
+          "q75": 7000,
+          "mean": 5863,
+          "min": 2500,
+          "max": 8150,
+          "count": 11,
+          "histogram": [
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 1
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 1
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 5
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 4
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 4783,
+          "median": 5700,
+          "q75": 7200,
+          "mean": 6292,
+          "min": 3243,
+          "max": 12500,
+          "count": 27,
+          "histogram": [
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 3
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 4
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 12
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 5
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 3
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 4783,
+        "median": 5700,
+        "q75": 7100,
+        "mean": 6022,
+        "min": 500,
+        "max": 12500,
+        "count": 39,
+        "histogram": [
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 1
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 1
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 4
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 4
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 17
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 9
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 3
+          }
+        ]
+      }
+    },
+    "Python Developer": {
+      "total_records": 25,
+      "by_level": {
+        "Junior": {
+          "q25": 1000,
+          "median": 1000,
+          "q75": 1000,
+          "mean": 1000,
+          "min": 1000,
+          "max": 1000,
+          "count": 1,
+          "histogram": [
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 1
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1712,
+          "median": 3937,
+          "q75": 6262,
+          "mean": 4237,
+          "min": 1500,
+          "max": 8000,
+          "count": 10,
+          "histogram": [
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 3
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 2
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 3
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 2
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 4900,
+          "median": 6285,
+          "q75": 8105,
+          "mean": 6485,
+          "min": 2000,
+          "max": 11000,
+          "count": 14,
+          "histogram": [
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 1
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 3
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 4
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 5
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 2375,
+        "median": 5800,
+        "q75": 7400,
+        "mean": 5366,
+        "min": 1000,
+        "max": 11000,
+        "count": 25,
+        "histogram": [
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 1
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 3
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 3
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 3
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 7
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 7
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 1
+          }
+        ]
+      }
+    },
+    ".NET Developer": {
+      "total_records": 137,
+      "by_level": {
+        "Junior": {
+          "q25": 582,
+          "median": 700,
+          "q75": 800,
+          "mean": 727,
+          "min": 352,
+          "max": 1300,
+          "count": 13,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 3
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 7
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 3
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1750,
+          "median": 2700,
+          "q75": 4550,
+          "mean": 3376,
+          "min": 705,
+          "max": 8500,
+          "count": 51,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 2
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 6
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 6
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 8
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 4
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 11
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 1
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 7
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 6
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 4000,
+          "median": 4500,
+          "q75": 5600,
+          "mean": 4885,
+          "min": 1200,
+          "max": 11700,
+          "count": 73,
+          "histogram": [
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 1
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 2
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 1
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 7
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 7
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 23
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 24
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 6
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 2
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 2100,
+        "median": 4000,
+        "q75": 5500,
+        "mean": 3928,
+        "min": 352,
+        "max": 11700,
+        "count": 137,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 3
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 9
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 10
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 8
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 9
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 11
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 18
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 24
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 31
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 12
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 2
+          }
+        ]
+      }
+    },
+    "Software / Embedded Engineer": {
+      "total_records": 128,
+      "by_level": {
+        "Junior": {
+          "q25": 390,
+          "median": 640,
+          "q75": 1300,
+          "mean": 847,
+          "min": 180,
+          "max": 1900,
+          "count": 19,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 6
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 6
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 3
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 4
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1550,
+          "median": 2250,
+          "q75": 3200,
+          "mean": 2508,
+          "min": 500,
+          "max": 8000,
+          "count": 43,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 4
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 5
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 8
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 8
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 3
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 10
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 2
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 2
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 1
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 3915,
+          "median": 5000,
+          "q75": 6175,
+          "mean": 5186,
+          "min": 1200,
+          "max": 13500,
+          "count": 66,
+          "histogram": [
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 1
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 3
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 2
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 1
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 11
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 14
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 20
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 11
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 3
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 1600,
+        "median": 3415,
+        "q75": 5200,
+        "mean": 3642,
+        "min": 180,
+        "max": 13500,
+        "count": 128,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 6
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 10
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 9
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 15
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 10
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 4
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 21
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 16
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 22
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 12
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 3
+          }
+        ]
+      }
+    },
+    "Data Analyst": {
+      "total_records": 266,
+      "by_level": {
+        "Junior": {
+          "q25": 742,
+          "median": 980,
+          "q75": 1200,
+          "mean": 1027,
+          "min": 353,
+          "max": 2300,
+          "count": 68,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 3
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 31
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 26
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 4
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 4
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1330,
+          "median": 2000,
+          "q75": 2600,
+          "mean": 2193,
+          "min": 600,
+          "max": 17000,
+          "count": 107,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 8
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 24
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 19
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 21
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 19
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 11
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 4
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 1
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 2900,
+          "median": 3500,
+          "q75": 4500,
+          "mean": 3749,
+          "min": 650,
+          "max": 11300,
+          "count": 91,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 1
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 2
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 6
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 8
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 6
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 30
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 20
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 13
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 4
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 1200,
+        "median": 2000,
+        "q75": 3078,
+        "mean": 2427,
+        "min": 353,
+        "max": 17000,
+        "count": 266,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 3
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 40
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 52
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 29
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 33
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 25
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 41
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 24
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 13
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 4
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 2
+          }
+        ]
+      }
+    },
+    "Data Engineer": {
+      "total_records": 13,
+      "by_level": {
+        "Junior": {
+          "q25": 180,
+          "median": 180,
+          "q75": 180,
+          "mean": 180,
+          "min": 180,
+          "max": 180,
+          "count": 1,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 1
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1806,
+          "median": 2350,
+          "q75": 3050,
+          "mean": 2506,
+          "min": 1526,
+          "max": 3800,
+          "count": 4,
+          "histogram": [
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 2
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 1
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 1
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 3802,
+          "median": 4050,
+          "q75": 7000,
+          "mean": 5020,
+          "min": 3500,
+          "max": 7150,
+          "count": 8,
+          "histogram": [
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 3
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 2
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 3
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 2800,
+        "median": 3800,
+        "q75": 4100,
+        "mean": 3874,
+        "min": 180,
+        "max": 7150,
+        "count": 13,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 1
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 2
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 1
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 4
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 2
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 3
+          }
+        ]
+      }
+    },
+    "ML / AI Engineer": {
+      "total_records": 279,
+      "by_level": {
+        "Junior": {
+          "q25": 682,
+          "median": 1000,
+          "q75": 1200,
+          "mean": 974,
+          "min": 250,
+          "max": 2300,
+          "count": 64,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 7
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 23
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 25
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 6
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 3
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1800,
+          "median": 2700,
+          "q75": 3800,
+          "mean": 2934,
+          "min": 490,
+          "max": 7500,
+          "count": 81,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 1
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 1
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 9
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 14
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 9
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 11
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 19
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 9
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 6
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 2
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 3925,
+          "median": 5000,
+          "q75": 6110,
+          "mean": 5318,
+          "min": 1000,
+          "max": 13725,
+          "count": 134,
+          "histogram": [
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 1
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 6
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 4
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 4
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 19
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 28
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 45
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 19
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 8
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 1500,
+        "median": 3300,
+        "q75": 5025,
+        "mean": 3629,
+        "min": 250,
+        "max": 13725,
+        "count": 279,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 8
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 24
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 35
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 26
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 16
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 15
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 38
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 37
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 51
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 21
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 8
+          }
+        ]
+      }
+    },
+    "DevOps / SRE Engineer": {
+      "total_records": 342,
+      "by_level": {
+        "Junior": {
+          "q25": 662,
+          "median": 1000,
+          "q75": 1400,
+          "mean": 1107,
+          "min": 200,
+          "max": 4100,
+          "count": 42,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 4
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 15
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 15
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 4
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 1
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 2
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 1
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 2025,
+          "median": 2800,
+          "q75": 3575,
+          "mean": 3362,
+          "min": 409,
+          "max": 12500,
+          "count": 106,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 1
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 1
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 13
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 20
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 23
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 26
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 7
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 8
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 4
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 3
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 4312,
+          "median": 5500,
+          "q75": 7000,
+          "mean": 6000,
+          "min": 570,
+          "max": 20000,
+          "count": 194,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 2
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 1
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 2
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 5
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 5
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 19
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 39
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 67
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 38
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 16
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 2500,
+        "median": 4200,
+        "q75": 6000,
+        "mean": 4581,
+        "min": 200,
+        "max": 20000,
+        "count": 342,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 5
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 17
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 17
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 19
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 26
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 30
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 45
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 47
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 75
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 42
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 19
+          }
+        ]
+      }
+    },
+    "System Administrator / Network Engineer": {
+      "total_records": 42,
+      "by_level": {
+        "Junior": {
+          "q25": 627,
+          "median": 668,
+          "q75": 737,
+          "mean": 696,
+          "min": 600,
+          "max": 850,
+          "count": 4,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 4
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1322,
+          "median": 1990,
+          "q75": 3075,
+          "mean": 2361,
+          "min": 600,
+          "max": 6023,
+          "count": 20,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 1
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 5
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 4
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 3
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 2
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 2
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 2
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 1
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 1700,
+          "median": 2750,
+          "q75": 5750,
+          "mean": 4191,
+          "min": 950,
+          "max": 12000,
+          "count": 18,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 1
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 1
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 3
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 2
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 2
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 2
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 3
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 3
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 1
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 1307,
+        "median": 2000,
+        "q75": 3600,
+        "mean": 2987,
+        "min": 600,
+        "max": 12000,
+        "count": 42,
+        "histogram": [
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 6
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 6
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 7
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 5
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 4
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 4
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 2
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 4
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 3
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 1
+          }
+        ]
+      }
+    },
+    "QA Manual Engineer": {
+      "total_records": 1213,
+      "by_level": {
+        "Junior": {
+          "q25": 587,
+          "median": 800,
+          "q75": 1100,
+          "mean": 886,
+          "min": 200,
+          "max": 3300,
+          "count": 200,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 25
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 107
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 55
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 6
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 2
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 2
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 3
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1350,
+          "median": 1700,
+          "q75": 2200,
+          "mean": 1842,
+          "min": 500,
+          "max": 5500,
+          "count": 563,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 41
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 142
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 159
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 126
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 55
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 31
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 5
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 4
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 2300,
+          "median": 3000,
+          "q75": 3600,
+          "mean": 3126,
+          "min": 800,
+          "max": 12000,
+          "count": 450,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 3
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 12
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 33
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 83
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 78
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 154
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 52
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 29
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 4
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 2
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 1300,
+        "median": 2000,
+        "q75": 2850,
+        "mean": 2161,
+        "min": 200,
+        "max": 12000,
+        "count": 1213,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 25
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 151
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 209
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 198
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 211
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 135
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 188
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 57
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 33
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 4
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 2
+          }
+        ]
+      }
+    },
+    "QA Automation Engineer": {
+      "total_records": 399,
+      "by_level": {
+        "Junior": {
+          "q25": 600,
+          "median": 925,
+          "q75": 1111,
+          "mean": 969,
+          "min": 167,
+          "max": 2900,
+          "count": 38,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 2
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 17
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 13
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 4
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 1
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 1
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1925,
+          "median": 2350,
+          "q75": 3000,
+          "mean": 2512,
+          "min": 900,
+          "max": 8500,
+          "count": 103,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 1
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 8
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 18
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 27
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 20
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 23
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 4
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 1
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 1
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 3300,
+          "median": 3957,
+          "q75": 4900,
+          "mean": 4176,
+          "min": 1000,
+          "max": 11500,
+          "count": 258,
+          "histogram": [
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 4
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 5
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 13
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 17
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 90
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 67
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 46
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 13
+            },
+            {
+              "range_from": 10000,
+              "range_to": null,
+              "label": "$10000+",
+              "count": 3
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 2300,
+        "median": 3400,
+        "q75": 4316,
+        "mean": 3441,
+        "min": 167,
+        "max": 11500,
+        "count": 399,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 2
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 18
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 25
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 27
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 41
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 38
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 113
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 71
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 47
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 14
+          },
+          {
+            "range_from": 10000,
+            "range_to": null,
+            "label": "$10000+",
+            "count": 3
+          }
+        ]
+      }
+    },
+    "Business Analyst": {
+      "total_records": 212,
+      "by_level": {
+        "Junior": {
+          "q25": 680,
+          "median": 876,
+          "q75": 1075,
+          "mean": 961,
+          "min": 500,
+          "max": 2200,
+          "count": 27,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 18
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 6
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 1
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 2
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1675,
+          "median": 2220,
+          "q75": 2795,
+          "mean": 2367,
+          "min": 800,
+          "max": 6000,
+          "count": 95,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 3
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 16
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 14
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 23
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 21
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 11
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 4
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 3
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 2812,
+          "median": 3500,
+          "q75": 4200,
+          "mean": 3574,
+          "min": 1000,
+          "max": 6800,
+          "count": 90,
+          "histogram": [
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 2
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 4
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 8
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 11
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 31
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 24
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 10
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 1757,
+        "median": 2558,
+        "q75": 3525,
+        "mean": 2700,
+        "min": 500,
+        "max": 6800,
+        "count": 212,
+        "histogram": [
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 21
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 24
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 19
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 33
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 32
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 42
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 28
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 13
+          }
+        ]
+      }
+    },
+    "UX/UI Designer": {
+      "total_records": 197,
+      "by_level": {
+        "Junior": {
+          "q25": 520,
+          "median": 709,
+          "q75": 850,
+          "mean": 749,
+          "min": 200,
+          "max": 1730,
+          "count": 33,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 3
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 24
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 5
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 1
+            }
+          ]
+        },
+        "Middle": {
+          "q25": 1200,
+          "median": 1665,
+          "q75": 2000,
+          "mean": 1732,
+          "min": 420,
+          "max": 5700,
+          "count": 85,
+          "histogram": [
+            {
+              "range_from": 0,
+              "range_to": 500,
+              "label": "$0–500",
+              "count": 2
+            },
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 7
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 27
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 23
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 14
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 6
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 4
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 2
+            }
+          ]
+        },
+        "Senior": {
+          "q25": 2425,
+          "median": 3300,
+          "q75": 4050,
+          "mean": 3536,
+          "min": 700,
+          "max": 9300,
+          "count": 79,
+          "histogram": [
+            {
+              "range_from": 500,
+              "range_to": 1000,
+              "label": "$500–1000",
+              "count": 1
+            },
+            {
+              "range_from": 1000,
+              "range_to": 1500,
+              "label": "$1000–1500",
+              "count": 2
+            },
+            {
+              "range_from": 1500,
+              "range_to": 2000,
+              "label": "$1500–2000",
+              "count": 4
+            },
+            {
+              "range_from": 2000,
+              "range_to": 2500,
+              "label": "$2000–2500",
+              "count": 14
+            },
+            {
+              "range_from": 2500,
+              "range_to": 3000,
+              "label": "$2500–3000",
+              "count": 10
+            },
+            {
+              "range_from": 3000,
+              "range_to": 4000,
+              "label": "$3000–4000",
+              "count": 21
+            },
+            {
+              "range_from": 4000,
+              "range_to": 5000,
+              "label": "$4000–5000",
+              "count": 16
+            },
+            {
+              "range_from": 5000,
+              "range_to": 7000,
+              "label": "$5000–7000",
+              "count": 7
+            },
+            {
+              "range_from": 7000,
+              "range_to": 10000,
+              "label": "$7000–10000",
+              "count": 4
+            }
+          ]
+        }
+      },
+      "overall": {
+        "q25": 1100,
+        "median": 1950,
+        "q75": 3000,
+        "mean": 2291,
+        "min": 200,
+        "max": 9300,
+        "count": 197,
+        "histogram": [
+          {
+            "range_from": 0,
+            "range_to": 500,
+            "label": "$0–500",
+            "count": 5
+          },
+          {
+            "range_from": 500,
+            "range_to": 1000,
+            "label": "$500–1000",
+            "count": 32
+          },
+          {
+            "range_from": 1000,
+            "range_to": 1500,
+            "label": "$1000–1500",
+            "count": 34
+          },
+          {
+            "range_from": 1500,
+            "range_to": 2000,
+            "label": "$1500–2000",
+            "count": 28
+          },
+          {
+            "range_from": 2000,
+            "range_to": 2500,
+            "label": "$2000–2500",
+            "count": 28
+          },
+          {
+            "range_from": 2500,
+            "range_to": 3000,
+            "label": "$2500–3000",
+            "count": 16
+          },
+          {
+            "range_from": 3000,
+            "range_to": 4000,
+            "label": "$3000–4000",
+            "count": 25
+          },
+          {
+            "range_from": 4000,
+            "range_to": 5000,
+            "label": "$4000–5000",
+            "count": 16
+          },
+          {
+            "range_from": 5000,
+            "range_to": 7000,
+            "label": "$5000–7000",
+            "count": 9
+          },
+          {
+            "range_from": 7000,
+            "range_to": 10000,
+            "label": "$7000–10000",
+            "count": 4
+          }
+        ]
+      }
+    }
+  }
+}
